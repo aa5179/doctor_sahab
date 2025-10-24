@@ -1,0 +1,20 @@
+// settings.gradle
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // If you use other repositories like JitPack, add them here.
+        // maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "Document Analysis"
+include ':app' // Include your app module

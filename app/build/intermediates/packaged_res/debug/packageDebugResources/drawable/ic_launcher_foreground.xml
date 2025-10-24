@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Medical prescription icon -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M25,25 L25,83 L83,83 L83,35 L73,25 Z M75,29 L79,33 L75,33 Z"/>
+    
+    <!-- Medical cross -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,40 L56,40 L56,48 L64,48 L64,52 L56,52 L56,60 L52,60 L52,52 L44,52 L44,48 L52,48 Z"/>
+    
+    <!-- Prescription lines -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M32,45 L48,45 L48,47 L32,47 Z"/>
+    
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M32,55 L70,55 L70,57 L32,57 Z"/>
+    
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M32,62 L65,62 L65,64 L32,64 Z"/>
+    
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M32,69 L60,69 L60,71 L32,71 Z"/>
+    
+    <!-- Pill icon -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M68,65 A4,4 0 1,1 76,65 A4,4 0 1,1 68,65 Z"/>
+</vector>

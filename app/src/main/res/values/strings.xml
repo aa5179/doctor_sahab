@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prescription Reader</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_prescriptions">Prescriptions</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Medical Prescription Reading -->
+    <string name="prescription_reader_title">Prescription Reader</string>
+    <string name="prescription_reader_subtitle">Upload or scan prescriptions to extract medicine details, dosage, and instructions</string>
+    
+    <!-- Upload Section -->
+    <string name="upload_section_title">� Scan or Upload Prescription</string>
+    <string name="scan_prescription_button">📷 Scan Prescription</string>
+    <string name="upload_prescription_button">📁 Upload from Gallery</string>
+    <string name="process_button">� Analyze Prescription</string>
+    <string name="clear_all_button">🗑️ Clear</string>
+    
+    <!-- Search Section -->
+    <string name="search_section_title">� Medicine Information</string>
+    <string name="search_hint">Search for medicine information…</string>
+    <string name="search_description">Get detailed information about your prescribed medicines</string>
+    <string name="search_button">Search</string>
+    
+    <!-- Results -->
+    <string name="results_title">� Prescription Details</string>
+    <string name="medicine_analysis_title">� Medicine Analysis</string>
+    
+    <!-- Reasoning -->
+    <string name="reasoning_title">🧠 Query Analysis &amp; Insights</string>
+    <string name="reasoning_subtitle">Deep dive into how your question was processed and analyzed</string>
+    <string name="no_analysis_title">No Analysis Available</string>
+    <string name="no_analysis_message">Ask a question in the Document Analysis section to see detailed insights here.</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome_title">🔬 Welcome to Emulsify</string>
+    <string name="welcome_subtitle">Intelligent document analysis and query system powered by AI</string>
+    
+    <!-- Error Messages -->
+    <string name="error_pdf_only">Please select PDF files only</string>
+    <string name="error_max_files">Maximum 3 PDF files allowed</string>
+    <string name="error_no_files">Please select at least one PDF file</string>
+    <string name="error_permission">Storage permission is required to select files</string>
+    
+    <!-- Status Messages -->
+    <string name="status_processing">📄 Processing %1$d PDF file(s)…</string>
+    <string name="status_success">✅ %1$s</string>
+    <string name="status_error">❌ %1$s</string>
+    <string name="status_cleared">✅ All documents cleared</string>
+    
+    <!-- Placeholders -->
+    <string name="processing_placeholder">Processing…</string>
+    <string name="analyzing_placeholder">Analyzing…</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.PrescriptionReader" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/medical_primary</item>
+        <item name="colorOnPrimary">@color/medical_on_primary</item>
+        
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/medical_secondary</item>
+        <item name="colorOnSecondary">@color/medical_on_secondary</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/medical_background</item>
+        <item name="colorSurface">@color/medical_surface</item>
+        <item name="colorOnBackground">@color/medical_text_primary</item>
+        <item name="colorOnSurface">@color/medical_text_primary</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/medical_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash theme -->
+    <style name="Theme.PrescriptionReader.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/medical_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_medical_cross</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.PrescriptionReader</item>
+    </style>
+</resources>

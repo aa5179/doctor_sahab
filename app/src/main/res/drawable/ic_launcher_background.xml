@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Medical background gradient -->
+    <path
+        android:fillColor="#E8F5E8"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+    
+    <!-- Subtle medical pattern -->
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M20,20 A6,6 0 1,1 32,20 A6,6 0 1,1 20,20 Z"/>
+    
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M76,88 A6,6 0 1,1 88,88 A6,6 0 1,1 76,88 Z"/>
+    
+    <path
+        android:fillColor="#B2DFDB"
+        android:pathData="M85,25 A5,5 0 1,1 95,25 A5,5 0 1,1 85,25 Z"/>
+</vector>

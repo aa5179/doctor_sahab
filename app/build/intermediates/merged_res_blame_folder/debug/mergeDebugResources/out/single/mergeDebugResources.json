@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_prescription.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_prescription.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_fragment_reasoning.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/fragment_reasoning.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_item_uploaded_document.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/item_uploaded_document.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/menu_bottom_navigation.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_pill.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_pill.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_card_background.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_source_tag_background.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/source_tag_background.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_activity_main.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_document.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_document.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/xml_provider_paths.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_brain.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_brain.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_item_selected_file.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/item_selected_file.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/xml_network_security_config.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/xml_backup_rules.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_health_safety.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_health_safety.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_medical_cross.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_medical_cross.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_launcher_legacy.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_launcher_legacy.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_fragment_dashboard.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_dashboard.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/layout_fragment_document_analysis.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/layout/fragment_document_analysis.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_metric_card_background.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/metric_card_background.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.emulsify.prescriptionreader.app-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.emulsify.prescriptionreader.app-main-69:/drawable/ic_launcher_background.xml"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="@string/nav_dashboard"
+        android:icon="@drawable/ic_medical_cross" />
+    
+    <item
+        android:id="@+id/nav_prescriptions"
+        android:title="@string/nav_prescriptions"
+        android:icon="@drawable/ic_prescription" />
+    
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/nav_profile"
+        android:icon="@drawable/ic_pill" />
+</menu>

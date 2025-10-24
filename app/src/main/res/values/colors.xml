@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Medical Theme Colors -->
+    <color name="medical_primary">#00BCD4</color>          <!-- Light teal -->
+    <color name="medical_primary_dark">#0097A7</color>      <!-- Darker teal -->
+    <color name="medical_secondary">#4CAF50</color>         <!-- Medical green -->
+    <color name="medical_secondary_dark">#388E3C</color>    <!-- Darker green -->
+    <color name="medical_accent">#FF5722</color>            <!-- Medical orange for alerts -->
+    
+    <!-- Neutral Colors -->
+    <color name="medical_background">#FAFAFA</color>        <!-- Soft white -->
+    <color name="medical_surface">#FFFFFF</color>           <!-- Pure white -->
+    <color name="medical_surface_variant">#F5F5F5</color>   <!-- Light grey -->
+    
+    <!-- Text Colors -->
+    <color name="medical_on_primary">#FFFFFF</color>
+    <color name="medical_on_secondary">#FFFFFF</color>
+    <color name="medical_text_primary">#212121</color>      <!-- Dark grey -->
+    <color name="medical_text_secondary">#757575</color>    <!-- Medium grey -->
+    <color name="medical_text_hint">#BDBDBD</color>         <!-- Light grey -->
+    
+    <!-- Status Colors -->
+    <color name="medical_success">#4CAF50</color>           <!-- Green -->
+    <color name="medical_warning">#FF9800</color>           <!-- Orange -->
+    <color name="medical_error">#F44336</color>             <!-- Red -->
+    <color name="medical_info">#2196F3</color>              <!-- Blue -->
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#00BCD4</color>
+    <color name="primary_variant">#0097A7</color>
+    <color name="secondary">#4CAF50</color>
+    <color name="secondary_variant">#388E3C</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#f5f7fa</color>
+    <color name="surface">#ffffff</color>
+    <color name="surface_variant">#ecf0f1</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#2c3e50</color>
+    <color name="text_secondary">#7f8c8d</color>
+    <color name="text_on_primary">#ffffff</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#27ae60</color>
+    <color name="error">#e74c3c</color>
+    <color name="warning">#f39c12</color>
+    <color name="info">#3498db</color>
+</resources>
